@@ -157,7 +157,7 @@ This project entails a data analysis of Twitter engagement for Lalitha Sdn. Bhd.
 ## Dataset Info
 
 - This is a synthetic dataset created for today's class
-- It is available in the following [link](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data).
+- It is available in the following [link](https://github.com/lalitha1910/Social-Media-Analytics/blob/main/social_media_data.csv).
 
 ![w:1150 h:300](pic3.png)
 
@@ -315,7 +315,7 @@ A scatter plot is suitable for this hypothesis as it visually represents the cor
 ---
 # Activity
 
-- Go to [GitHub]() to download the dataset
+- Go to [GitHub](https://github.com/lalitha1910/Social-Media-Analytics/blob/main/social_media_data.csv) to download the dataset
 
 - Go to [Tableau Public](https://public.tableau.com/app/discover) and sign up an account
 
